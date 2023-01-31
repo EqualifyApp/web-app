@@ -1,0 +1,284 @@
+[
+  {
+    "slug": "ac11_wcag2a",
+    "title": "WCAG 2.0 Level A",
+    "description": "",
+    "category": "WCAG ac11 Tags"
+  },
+  {
+    "slug": "ac11_wcag2aa", 
+    "title": "WCAG 2.0 Level AA",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag2aaa", 
+    "title": "WCAG 2.0 Level AAA",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag21a", 
+    "title": "WCAG 2.1 Level A",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag21aa", 
+    "title": "WCAG 2.1 Level AA",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag21aaa", 
+    "title": "WCAG 2.1 Level AAA",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag111", 
+    "title": "WCAG Success Criteria 1.1.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag121", 
+    "title": "WCAG Success Criteria 1.2.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag122", 
+    "title": "WCAG Success Criteria 1.2.2",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag131", 
+    "title": "WCAG Success Criteria 1.3.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag141", 
+    "title": "WCAG Success Criteria 1.4.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag143", 
+    "title": "WCAG Success Criteria 1.4.3",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag144", 
+    "title": "WCAG Success Criteria 1.4.4",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag211", 
+    "title": "WCAG Success Criteria 2.1.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag221", 
+    "title": "WCAG Success Criteria 2.2.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag222", 
+    "title": "WCAG Success Criteria 2.2.2",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag241", 
+    "title": "WCAG Success Criteria 2.4.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag242", 
+    "title": "WCAG Success Criteria 2.4.2",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag244", 
+    "title": "WCAG Success Criteria 2.4.4",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag311", 
+    "title": "WCAG Success Criteria 3.1.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag312", 
+    "title": "WCAG Success Criteria 3.1.2",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag332", 
+    "title": "WCAG Success Criteria 3.3.2",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag411", 
+    "title": "WCAG Success Criteria 4.1.1",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_wcag412", 
+    "title": "WCAG Success Criteria 4.1.2",
+    "category": "WCAG ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_section508", 
+    "title": "Section 508",
+    "category": "Other ac11 Tags",
+    "description": "Section 508 is part of a 1998 amendment to the Rehabilitation Act of 1973. It requires all Federal electronic content to be accessible"
+  },
+  {
+    "slug": "ac11_section50822a", 
+    "title": "Section 508.22.a",
+    "category": "Other ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_section50822f", 
+    "title": "Section 508.22.f",
+    "category": "Other ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_section50822g", 
+    "title": "Section 508.22.g",
+    "category": "Other ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_section50822i", 
+    "title": "Section 508.22.i",
+    "category": "Other ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_section50822j", 
+    "title": "Section 508.22.j",
+    "category": "Other ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_section50822n", 
+    "title": "Section 508.22.n",
+    "category": "Other ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_section50822o", 
+    "title": "Section 508.22.o",
+    "category": "Other ac11 Tags",
+    "description": ""
+  },
+  {
+    "slug": "ac11_ACT", 
+    "title": "ACT",
+    "category": "Other ac11 Tags",
+    "description": "ACT Rules are designed to harmonize how edge cases for WCAG and other accessibility guidance are tested."
+  },
+  {
+    "slug": "ac11_best-practice", 
+    "title": "Best Practices",
+    "category": "Other ac11 Tags",
+    "description": "Common accessibility best practices."
+  },
+  {
+    "slug": "ac11_cat.aria",
+    "title": "Aria",
+    "category": "ac11 Categories",
+    "description": ""
+  },
+  {
+    "slug": "ac11_cat.color",
+    "title": "Color",
+    "category": "ac11 Categories",
+    "description": ""
+  },
+  {
+    "slug": "ac11_cat.forms",
+    "title": "Forms",
+    "category": "ac11 Categories",
+    "description": "ac11/forms contains accessibility rules from the ac11 forms category."
+  },
+  {
+    "slug": "ac11_cat.keyboard",
+    "title": "Keyboard",
+    "category": "ac11 Categories",
+    "description": "ac11/keyboard contains accessibility rules from the ac11 keyboard category."
+  },
+  {
+    "slug": "ac11_cat.language",
+    "title": "Language",
+    "category": "ac11 Categories",
+    "description": "ac11/language contains accessibility rules from the ac11 language category."
+  },
+  {
+    "slug": "ac11_cat.name-role-value",
+    "title": "Name Role Value",
+    "category": "ac11 Categories",
+    "description": "ac11/name-role-value contains accessibility rules from the ac11 name-role-value category."
+  },
+  {
+    "slug": "ac11_cat.parsing",
+    "title": "Parsing",
+    "category": "ac11 Categories",
+    "description": "ac11/parsing contains accessibility rules from the ac11 parsing category."
+  },
+  {
+    "slug": "ac11_cat.semantics",
+    "title": "Semantics",
+    "category": "ac11 Categories",
+    "description": "ac11/semantics contains accessibility rules from the ac11 semantics category."
+  },
+  {
+    "slug": "ac11_cat.sensory-and-visual-cues",
+    "title": "Sensory and Visual Cues",
+    "category": "ac11 Categories",
+    "description": "ac11/sensory-and-visual-cues contains accessibility rules from the ac11 sensory-and-visual-cues category."
+  },
+  {
+    "slug": "ac11_cat.structure",
+    "title": "Structure",
+    "category": "ac11 Categories",
+    "description": "ac11/structure contains accessibility rules from the ac11 structure category."
+  },
+  {
+    "slug": "ac11_cat.tables",
+    "title": "Tables",
+    "category": "ac11 Categories",
+    "description": "ac11/tables contains accessibility rules from the ac11 tables category."
+  },
+  {
+    "slug": "ac11_cat.text-alternatives",
+    "title": "Text Alternatives",
+    "category": "ac11 Categories",
+    "description": "ac11/text-alternatives contains accessibility rules from the ac11 text-alternatives category."
+  },
+  {
+    "slug": "ac11_cat.time-and-media",
+    "title": "Time and Media",
+    "category": "ac11 Categories",
+    "description": "ac11/time-and-media contains accessibility rules from the ac11 time-and-media category."
+  }
+]
