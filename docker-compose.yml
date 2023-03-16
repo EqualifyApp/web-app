@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    ports:
+      - "8088:80"
+    depends_on:
+      - db
+    environment:
+      - APP_ENV=local
+    volumes:
+      - .:/var/www/html
+
+  db:
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      - MYSQL_ROOT_PASSWORD=equalify
+      - MYSQL_DATABASE=equalify
+      - MYSQL_USER=equalify
+      - MYSQL_PASSWORD=equalify
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./mysql.cnf:/etc/mysql/conf.d/mysql.cnf
+
+volumes:
+  db_data:
