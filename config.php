@@ -18,13 +18,13 @@ $GLOBALS["DB_SOCKET"] = "/var/run/mysqld/mysqld.sock";
 
 // Configure PHP path, which you can find by running
 //`which php` in a terminal.
-$GLOBALS["PHP_PATH"] = "/usr/bin/php";
+$GLOBALS["PHP_PATH"] = "/usr/local/bin/php";
 
 // Visit https://wave.webaim.org/api/ to get a WAVE key.
 $GLOBALS["wave_key"] = "";
 
 // Visit https://github.com/bbertucc/axe-equalify for more info.
-$GLOBALS["axe_uri"] = "";
+$GLOBALS["axe_uri"] = "http://192.168.1.20:8081/?url=";
 
 // Additional options.
 $GLOBALS["page_limit"] = "2222";
